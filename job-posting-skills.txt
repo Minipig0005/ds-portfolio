@@ -1,0 +1,30 @@
+Job Posting 1: Federal Bureau of Investigation Special Agent: Mathematics/Data Expertise
+
+Required Skills:
+1. Bachelor's Degree in either data science or mathematics
+2. Critical thinking/problem solving
+3. Physical Fitness
+
+Preferred skills
+1. Collaboration and relationship building
+2. Fast learning
+3. cybersecurity/threat analysis
+
+Job Posting 2: US Tennis Association Senior Manager, Applied Analytics
+
+Required Skills:
+1. Proficiency in SQL
+2. Proficiency in visualization dashboards like Tableau, Power BI, or Looker
+3. Communicate data in a way that is accessible to non-technical investors
+
+Preferred skills
+1. Cross-functional stakeholder management
+2. Understanding of global data privacy regulations
+3. Expertise in funnel analytics
+
+Skills that overlap
+1. Applied data/statistcal analysis
+2. Problem-solving/decision-making
+3. Communication/collaboration
+
+Things that stood out: Both job listing are able to use the data science degree in 2 different ways. Where the FBI listing applies the degree to a case-solving perspective, the USTA listing is focused on building new models and acting as a supervisor/manager.
